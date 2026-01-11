@@ -1,0 +1,7 @@
+{
+  "name": "Shark Tank - Startup Funding Platform",
+  "description": "A mobile-first fintech platform for business ideas and startup projects, featuring internal wallet management, investment tracking, and data visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
